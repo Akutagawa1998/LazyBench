@@ -2,7 +2,7 @@
 
 [Sihang (Nagi) Zhao](https://akutagawa1998.github.io/), [Youliang Yuan](https://youliangyuan.github.io/), [Xiaoying Tang](https://sse.cuhk.edu.cn/en/faculty/tangxiaoying), [Pinjia He](https://pinjiahe.github.io/)
                
-### [Paper](our paper link) | [Project Page](our project page) | [LazyBench](our LazyBench)
+### [Paper](https://arxiv.org/abs/2410.11437) | [Project Page](https://github.com/Akutagawa1998/LazyBench/tree/main) | [LazyBench](our LazyBench)
 
 
 ![Teaser](figure_1.png)
@@ -49,7 +49,13 @@ This project is under the MIT license. See [LICENSE](LICENSE) for details.
 
 ## Citation <a name="citation"></a>
 Please consider citing our paper if you find this project helpful for your research:
-*Coming Soon*
+
+@article{zhao2024difficult,
+  title={Difficult Task Yes but Simple Task No: Unveiling the Laziness in Multimodal LLMs},
+  author={Zhao, Sihang and Yuan, Youliang and Tang, Xiaoying and He, Pinjia},
+  journal={arXiv preprint arXiv:2410.11437},
+  year={2024}
+}
 
 
 ## Acknowledgement <a name="acknowledgement"></a>
