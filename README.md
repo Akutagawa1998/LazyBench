@@ -50,12 +50,15 @@ This project is under the MIT license. See [LICENSE](LICENSE) for details.
 ## Citation <a name="citation"></a>
 Please consider citing our paper if you find this project helpful for your research:
 
+```bibtex
 @article{zhao2024difficult,
   title={Difficult Task Yes but Simple Task No: Unveiling the Laziness in Multimodal LLMs},
   author={Zhao, Sihang and Yuan, Youliang and Tang, Xiaoying and He, Pinjia},
   journal={arXiv preprint arXiv:2410.11437},
   year={2024}
 }
+```
+
 
 
 ## Acknowledgement <a name="acknowledgement"></a>
